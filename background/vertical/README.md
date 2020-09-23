@@ -1,11 +1,13 @@
+Just click on an image, to get it's URL
+
 # 1 :
 ![1](https://github.com/maifeeulasad/Icon-collection/blob/master/background/vertical/0001.jpg)
 # 2 :
 ![2](https://github.com/maifeeulasad/Icon-collection/blob/master/background/vertical/0002.jpg)
 # 3 :
-![3](https://github.com/maifeeulasad/Icon-collection/blob/master/background/vertical/0003.jpg)
+![3](https://github.com/maifeeulasad/Icon-collection/blob/master/background/vertical/0003.png)
 # 4 :
-![4](https://github.com/maifeeulasad/Icon-collection/blob/master/background/vertical/0004.jpg)
+![4](https://github.com/maifeeulasad/Icon-collection/blob/master/background/vertical/0004.png)
 # 5 :
 ![5](https://github.com/maifeeulasad/Icon-collection/blob/master/background/vertical/0005.jpg)
 # 6 :
